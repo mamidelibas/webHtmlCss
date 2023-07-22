@@ -1,0 +1,33 @@
+body {
+   background-color: #f2c6bd;
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+.header {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   justify-content: space-around;
+}
+.logo img {
+   width: 50px;
+}
+.left {
+   /* background-color: green; */
+   display: flex;
+   align-items: center;
+}
+.right {
+   /* background-color: red; */
+   display: flex;
+   align-items: center;
+}
+.actionButton button {
+   background-color: #121692;
+   color: white;
+   padding: 10px 25px;
+   border: none;
+}
+.menu a {
+}
