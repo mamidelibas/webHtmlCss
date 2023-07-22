@@ -30,4 +30,8 @@ body {
    border: none;
 }
 .menu a {
+   color: black;
+   text-decoration: none;
+   /* margin-left: 55px;
+   margin-right: 25px; */
 }
