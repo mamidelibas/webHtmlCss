@@ -102,35 +102,6 @@ p {
    font-size: 64px;
 }
 
-/* .mainSection {
-   display: flex;
-   flex-direction: row;
-   width: 100%;
-   justify-content: space-around;
-   padding-top: 55px;
-   align-items: center;
-   position: absolute;
-}
-.mainLeft h2 {
-   font-size: 80px;
-   margin-bottom: 35px;
-   margin-top: -5px;
-}
-.mainLeft p {
-   font-size: 25px;
-   margin: 0;
-}
-
-.mainRight img {
-   width: 750px;
-   margin-left: -255px;
-   height: auto;
-}
-
-.mainLeft {
-   margin-left: 120px;
-} */
-
 .actionButtons button {
    background-color: #3141c8;
    color: white;
